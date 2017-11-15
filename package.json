@@ -1,0 +1,15 @@
+{
+  "name": "botliterario",
+  "version": "1.0.0",
+  "description": "bot literario prueba ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "literario"
+  ],
+  "author": "silviaguerra",
+  "license": "ISC"
+}
